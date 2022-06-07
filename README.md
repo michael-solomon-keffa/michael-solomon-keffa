@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Solomon</h1>
-<h3 align="center">A disciplined Software Engineer in Ethiopia</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/@michael55211394" target="blank"><img src="https://img.shields.io/twitter/follow/@michael55211394?logo=twitter&style=for-the-badge" alt="@michael55211394" /></a> </p>
 
