@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Solomon</h1>
-<h3 align="center">A Software Engineer in Ethiopia who loves gardening : )</h3>
+<h3 align="center">A Software Engineer who loves gardening : )</h3>
 
 - 💬 Ask me about **flutter**
 
