@@ -1,19 +1,56 @@
-<h1 align="center">Hi 👋, I'm Michael Solomon</h1>
-<h3 align="center">A Software Engineer who loves gardening : )</h3>
+# 👋 Hi, I'm Michael Solomon
 
-- 💬 Ask me about **flutter**
+I'm a **full-stack developer** who thrives on clean architecture and structured thinking.
 
-- 📫 How to reach me **se.michael.solomon@gmail.com**
+---
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ebY7ZbnkT53H2W75V6HDk8R1NwyXZfWVf5B97Omx5GA/edit?usp=sharing](https://docs.google.com/document/d/1ebY7ZbnkT53H2W75V6HDk8R1NwyXZfWVf5B97Omx5GA/edit?usp=sharing)
+### 🧠 My Core Beliefs
+> I enjoy building with discipline and clear planning in mind.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@michael55211394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@michael55211394" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/michaela3ba171aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaela3ba171aa" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 💼 What I Do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-pi-max&show_icons=true&locale=en" alt="michael-pi-max" /></p>
+#### 🖥️ Frontend
+- **React**, **Next.js**, **Flutter**
+- UI/UX with responsiveness and performance in mind
+
+#### 🧠 Backend
+- **Node.js**, **Express**, **NestJS**
+- RESTful APIs, microservices, and serverless architectures
+
+#### 💾 Databases
+- **MongoDB**, **PostgreSQL**
+- Data modeling, indexing, and performance tuning
+
+#### ☁️ Cloud & DevOps
+- **AWS Lambda**, **ECS**, **S3**, **IVS**, **Kinesis Data Streams**
+- Infrastructure as code, scalable deployments, monitoring
+
+---
+
+### 🧰 Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+
+---
+
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-solomon-keffa&show_icons=true&hide_border=true&theme=radical)
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelskeffa)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/michael-solomon-keffa)
+
+---
+
+> — Michael Solomon
