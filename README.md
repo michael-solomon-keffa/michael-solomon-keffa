@@ -42,11 +42,6 @@ I'm a **full-stack developer** who thrives on clean architecture and structured 
 
 ---
 
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-solomon-keffa&show_icons=true&hide_border=true&theme=radical)
-
----
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelskeffa)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/michael-solomon-keffa)
