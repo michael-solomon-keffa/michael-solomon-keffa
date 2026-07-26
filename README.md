@@ -1,8 +1,9 @@
 <!--
   GitHub profile README for michael-solomon-keffa
   Widgets render from third-party SVG APIs (capsule-render, readme-typing-svg,
-  github-readme-stats, skillicons, github-profile-trophy). No build step needed —
+  github-readme-streak-stats, skillicons, Platane/snk). No build step needed —
   paste into a repo named exactly "michael-solomon-keffa".
+  The snake image is produced by .github/workflows/snake.yml.
 -->
 
 <div align="center">
@@ -70,20 +71,11 @@ Senior full-stack engineer and technical lead. Most of my last five years has go
 
 ---
 
-### `by the numbers`
+### `streak`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=michael-solomon-keffa&show_icons=true&hide_border=true&title_color=2E8B8B&icon_color=6FB98F&text_color=cbd5e1&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-solomon-keffa&layout=compact&hide_border=true&title_color=2E8B8B&text_color=cbd5e1&bg_color=0d1117&langs_count=8" alt="Top languages" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=michael-solomon-keffa&hide_border=true&background=0d1117&stroke=2E8B8B&ring=6FB98F&fire=6FB98F&currStreakLabel=2E8B8B&sideLabels=cbd5e1&dates=64748b&currStreakNum=cbd5e1&sideNums=cbd5e1" alt="Streak stats" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=michael-solomon-keffa&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
 
 </div>
 
