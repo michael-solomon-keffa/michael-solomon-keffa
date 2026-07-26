@@ -17,7 +17,7 @@
 <br/>
 
 <a href="mailto:se.michael.solomon@gmail.com"><img src="https://img.shields.io/badge/Email-2E8B8B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0B486B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/michaelskeffa"><img src="https://img.shields.io/badge/LinkedIn-0B486B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=michael-solomon-keffa&style=for-the-badge&color=6FB98F&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
