@@ -26,11 +26,11 @@
 
 ### `whoami`
 
-Senior full-stack engineer and technical lead. Most of my last five years has gone into the unglamorous parts of scale — making synchronization durable, turning brittle event chains into orchestration you can reason about, and cutting the duplication that slows a team down. I've been promoted to lead in one to two months at three different places, and I think that's because I never leave the code.
+Senior full-stack engineer and technical lead. I take products from a rough problem statement to shipped software, shaping the solution, designing the architecture, and building it out across both the backend and the frontend. On the backend that means APIs, data models, and event-driven services that hold up; on the frontend, the interfaces and interactions that sit on top of them. I've been promoted to lead in one to two months at three different places, and I think that's because I stay close to the work; solutioning with stakeholders one moment, in the code the next.
 
 - 🔭 Last led **5 engineers** on a multi-tenant recruitment platform serving **40k+ candidates**
-- ⚙️ Happiest in **event-driven / serverless** territory — Temporal, Kinesis, Lambda@Edge
 - 🧩 Believe **predictable beats clever** — I'd rather ship a system the on-call engineer can reason about at 3am
+- ⚙️ Happiest in **event-driven / serverless** territory — Temporal, Kinesis, Lambda@Edge
 - 🎓 B.Sc. Software Engineering, Addis Ababa University — **3.92 GPA**, Very Great Distinction
 
 ---
